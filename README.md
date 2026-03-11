@@ -75,8 +75,6 @@ Retail-Sales-Analysis
 ---
 
 ## Dashboard Preview
-## Dashboard Preview
-
 ### Dashboard 1
 ![Dashboard 1](dashboard1.png)
 
@@ -86,7 +84,6 @@ Retail-Sales-Analysis
 ---
 
 ## Author
-
 Pandurang Jogdand
 
 Aspiring Data Analyst | Python | SQL | Power BI 
